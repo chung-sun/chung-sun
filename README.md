@@ -2,14 +2,8 @@
 
 # I'm Sun Chung
 
-<p align="center">
-  <a href="https://github.com/chung-sun/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=chung-sun&show_icons=true&theme=gruvbox" />
-  </a>
-  <a href="https://github.com/chung-sun/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chung-sun&theme=gruvbox" />
-  </a>
-</p>
+| <a href="https://github.com/chung-sun/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=chung-sun&show_icons=true&theme=default&hide_border=true" /></a> | <a href="https://github.com/chung-sun/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chung-sun&theme=default&hide_border=true" /></a> |
+| ------------- | ------------- |
 
 <br>
 
