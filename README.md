@@ -62,6 +62,12 @@
   </a>
 </p>
 
+<p align="center">
+  <a href="https://github.com/chung-sun/eye-exercise">
+    <img align="center" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=chung-sun&repo=eye-exercise&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="https://github.com/chung-sun/eye-exrcise" />
+  </a>
+
+</p>
 ---
 
 <!--
